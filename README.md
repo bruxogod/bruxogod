@@ -27,16 +27,7 @@ Security Research • Reverse Engineering • Windows Internals
 
 <div align="center">
 
-## 🤖 GitHub Streak
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=bruxogod&theme=tokyonight&hide_border=true&exclude_days=Sun" 
-  alt="GitHub Streak" 
-/>
-
-</div>
-
----
 
 <div align="center">
 
