@@ -14,7 +14,7 @@ Security Research • Reverse Engineering • Windows Internals
 
 <div align="center">
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus" />
@@ -30,7 +30,7 @@ Security Research • Reverse Engineering • Windows Internals
 
 <div align="center">
 
-## 🧠 Focus
+## Focus
 
 </div>
 
