@@ -19,7 +19,6 @@ Security Research • Reverse Engineering • Windows Internals
 <p>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
 </p>
 
 </div>
