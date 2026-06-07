@@ -43,36 +43,4 @@ Discord: maskedpacket
 
 <div align="center">
 
-## Focus
-
-</div>
-
-```txt
-• Reverse Engineering
-• Windows Internals
-• Malware Analysis
-• Low Level Development
-• Security Research
-```
-
----
-
-<div align="center">
-
-## Interests
-
-</div>
-
-```txt
-• Native Windows Development
-• PE Internals
-• Debugging
-• System Programming
-• Threat Research
-```
-
----
-
-<div align="center">
-
 </div>
