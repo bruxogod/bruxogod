@@ -23,9 +23,23 @@ Security Research • Reverse Engineering • Windows Internals
 
 </div>
 
+---
+
 <div align="center">
 
+## Contact
 
+<p>
+  <img src="https://img.shields.io/badge/Discord-maskedpacket-000000?style=for-the-badge&logo=discord" />
+</p>
+
+```txt
+Discord: maskedpacket
+```
+
+</div>
+
+---
 
 <div align="center">
 
@@ -40,3 +54,29 @@ Security Research • Reverse Engineering • Windows Internals
 • Low Level Development
 • Security Research
 ```
+
+---
+
+<div align="center">
+
+## Interests
+
+</div>
+
+```txt
+• Native Windows Development
+• PE Internals
+• Debugging
+• System Programming
+• Threat Research
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" />
+
+</div>
