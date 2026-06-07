@@ -75,8 +75,4 @@ Discord: maskedpacket
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bruxogod&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruxogod&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" />
-
 </div>
