@@ -34,7 +34,7 @@ Security Research • Reverse Engineering • Windows Internals
 </p>
 
 ```txt
-Discord: maskedpacket
+Discord: badhere
 ```
 
 </div>
