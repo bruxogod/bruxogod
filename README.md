@@ -22,12 +22,3 @@ Security Research • Reverse Engineering • Windows Internals
 </div>
 
 ---
-
-
-</div>
-
----
-
-<div align="center">
-
-</div>
